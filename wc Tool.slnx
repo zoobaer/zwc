@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wc Tool/wc Tool.vcxproj" Id="b8c677fc-420e-42a6-9438-16427f4fbeb1" />
+</Solution>
